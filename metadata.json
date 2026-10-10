@@ -1,0 +1,7 @@
+{
+  "name": "Kariyer ve Mülakat Koçu AI",
+  "description": "Mülakatçının unvanına özel potansiyel soru üretimi, eğitim içeriği analiziyle sonraki adım eğitim tavsiyeleri ve kişiselleştirilmiş canlı mülakat simülasyonu.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
